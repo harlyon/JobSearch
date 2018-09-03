@@ -1,0 +1,3 @@
+# Exercises
+
+## Python basics exercises
